@@ -1,2 +1,3 @@
 # docker-library
-Docker自动构建
+
+构建一个Python的Docker镜像
